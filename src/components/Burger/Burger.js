@@ -1,7 +1,9 @@
 import React from "react";
+// import { withRouter } from 'react-router-dom';
 import classes from "./Burger.module.css";
 import BurgerIngredient from "./BurgerIngredient/BurgerIngredient";
 const burger = (props) => {
+    console.log(props);
     /**
      * Object.keys(extract the keys as an array from the object)
      * In this case [salad,bacon,cheese,meat]
