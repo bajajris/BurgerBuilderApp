@@ -1,4 +1,4 @@
-View Final: burgerz.netlify.com
+View Final: [Burger Builder](https://www.burgerz.netlify.com)
 
 Burger Builder web application using React js.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
